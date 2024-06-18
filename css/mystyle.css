@@ -1,0 +1,39 @@
+
+
+.headfont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.bold{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+li{
+    font-weight: lighter;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pic{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+a:visited{
+    color: rgb(70, 107, 141); 
+   text-decoration: none;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.resume{
+    text-align: center;
+    color: rgb(48, 47, 47);
+}
+
+.cpyrt{
+    color: rgb(223, 199, 170);
+    text-align: center;
+}

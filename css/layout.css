@@ -1,0 +1,29 @@
+.common{
+    background-color: bisque;
+    border: 2px;
+    position: static;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 200px;
+}
+
+
+.center{
+    top: 214px;
+    left: 5px;
+    right: 5px;
+    bottom: 64px;
+}
+
+
+
+.footer{
+    right: 5px;
+    left: 5px;
+    bottom: 5px;
+    height: 50px;
+}
